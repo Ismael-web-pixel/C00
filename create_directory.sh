@@ -4,4 +4,4 @@
 mkdir test_directory
 
 # Affiche un message pour confirmer
-echo "Le répertoire 'test_directory' a été créé."
+echo 'Le répertoire 'test_directory' a été créé.'
