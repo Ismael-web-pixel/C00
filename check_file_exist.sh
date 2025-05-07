@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # Script pour vérifier si un fichier existe
-
-if [ -f "$1" ]; then
+echo "Entrez le nom du fichier."
+read fichier
+if [ -f "$fichier" ]; then
   echo "Le fichier existe."
 else
   echo "Le fichier n'existe pas."
