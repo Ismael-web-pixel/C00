@@ -2,4 +2,3 @@
 
 # Affiche la liste de tous les fichiers et dossiers du répertoire courant
 ls
-
